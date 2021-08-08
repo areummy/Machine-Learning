@@ -39,7 +39,7 @@
     (다른사람과 나의 결과는 무작위로 달라질 수 있는데 이걸 통해서 같게 만들 수 있다.)
     - stratify=test : 이건 데이터가 적어 무작위로 나누어졌을 때, 한쪽으로 치우쳐 있는 것을 방지 할 수 있다. 저렇게 하면 test의 비율을 보고 알아서 맞게 나눠준다.
 
-    ![%E1%84%92%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB(chapter%202)%200a528fe9d98f41e6afb30b90868050e2/Untitled.png](%E1%84%92%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB(chapter%202)%200a528fe9d98f41e6afb30b90868050e2/Untitled.png)
+    
 
 - 데이터 전처리(표준점수)
     - 각 데이터가 원점에서 몇 표준편차만큼 떨어져 있는지를 나타내는 값입니다.
@@ -52,4 +52,4 @@
     train_scaled=(train_input - mean) / std
     ```
 
-    ![%E1%84%92%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB(chapter%202)%200a528fe9d98f41e6afb30b90868050e2/Untitled%201.png](%E1%84%92%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%86%E1%85%A5%E1%84%89%E1%85%B5%E1%86%AB(chapter%202)%200a528fe9d98f41e6afb30b90868050e2/Untitled%201.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52da1907-75b3-4ea3-8b7e-5b7fa38d7ec5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52da1907-75b3-4ea3-8b7e-5b7fa38d7ec5/Untitled.png)
