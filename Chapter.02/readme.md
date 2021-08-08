@@ -52,4 +52,3 @@
     train_scaled=(train_input - mean) / std
     ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52da1907-75b3-4ea3-8b7e-5b7fa38d7ec5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52da1907-75b3-4ea3-8b7e-5b7fa38d7ec5/Untitled.png)
