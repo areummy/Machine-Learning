@@ -41,3 +41,6 @@
            [40. ],
            [39. ])
     ```
+    ![image](https://user-images.githubusercontent.com/81748349/145558318-23ddf2d2-3783-45a2-a701-134a7d609d80.png)
+    ![image](https://user-images.githubusercontent.com/81748349/145558361-14d4afab-4a9c-42ae-85c2-55c86badc532.png)
+
